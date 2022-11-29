@@ -1,4 +1,4 @@
-# Schwartz-PVQ-Survey-Page
+# Schwartz-PVQ-Survey-Webpage
 
 This repo is webpage for the Reddit user to solve the portrait value questionnaire 21 (PVQ 21) and check what their Schwartz value is.
 
